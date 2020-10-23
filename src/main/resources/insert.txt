@@ -1,0 +1,8 @@
+
+INSERT INTO users(user_id, login, password, role, username)
+VALUES(1, 'Admin', '$2y$12$VTgOIco1qG9hQ2UzRqgOL.XSPlk.r1iQu4h5O0ejTb88eUf2H7YVC', 'ADMIN',
+       'Admin Adminov');
+
+INSERT INTO users(user_id, login, password, role, username)
+VALUES(2, 'User', '$2y$12$UC4A3mogL3sF6B3AdW7UAepSDhEE2drdZTtENUKHpZC1rOegfoAYW', 'USER',
+       'User Userov');
